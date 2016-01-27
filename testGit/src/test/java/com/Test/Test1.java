@@ -9,6 +9,6 @@ public class Test1 {
 	}
 	
 	public void test(){
-		System.out.println("试试怎么合并！");
+		
 	}
 }
